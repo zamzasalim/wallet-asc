@@ -30,7 +30,7 @@ This project is a simple web application that allows users to create their own c
 1. Clone the repository:
     ```bash
     https://github.com/zamzasalim/wallet-asc.git
-    cd asc-wgen
+    cd wallet-asc
     ```
 
 2. Install dependencies:
