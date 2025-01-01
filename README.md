@@ -29,7 +29,7 @@ This project is a simple web application that allows users to create their own c
 
 1. Clone the repository:
     ```bash
-    git clone proland://f69de671-2e0c-45b2-b510-8eb295760d22 asc-wgen
+    https://github.com/zamzasalim/wallet-asc.git
     cd asc-wgen
     ```
 
