@@ -2,7 +2,7 @@
 
 This project is a simple web application that allows users to create their own cryptocurrency wallets. The app is built using Vite, React, and TypeScript.
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/f69de671-2e0c-45b2-b510-8eb295760d22)
 
 ### Features
 
@@ -29,8 +29,8 @@ This project is a simple web application that allows users to create their own c
 
 1. Clone the repository:
     ```bash
-    https://github.com/zamzasalim/wallet-asc.git
-    cd wallet-asc
+    https://github.com/hanifdamarjati20/crypto-web-wallet.git
+    cd crypto-web-wallet
     ```
 
 2. Install dependencies:
@@ -47,10 +47,9 @@ This project is a simple web application that allows users to create their own c
 
 ##### Deployment
 
-This app is build for Test Deployment on [Arlink](https://arlink.arweave.net) & you could access it via the following URL: [Crypto Wallet App](https://webwallet-chi.vercel.app/)
+This app is build for Test Deployment on [Arlink](https://arlink.arweave.net).
 
 ### Acknowledgments
 
 - This project was bootstrapped with [Vite](https://vitejs.dev/).
-- Special ♡ to [0xnas](https://github.com/iamnas), hnfdm & all the contributors of the various libraries used in this project.
-
+- Special ♡ to [0xnas](https://github.com/iamnas) & all the contributors of the various libraries used in this project.
