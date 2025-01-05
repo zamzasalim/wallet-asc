@@ -47,7 +47,7 @@ This project is a simple web application that allows users to create their own c
 
 ##### Deployment
 
-This app is build for Test Deployment on [Arlink](https://arlink.arweave.net).
+This app is build for Test Deployment on [Arlink](https://ascwallet_arlink.arweave.net/).
 
 ### Acknowledgments
 
